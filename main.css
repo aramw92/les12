@@ -1,0 +1,22 @@
+body {
+    background: #a9a9a9;
+    color: #444;
+}
+
+/* Koppen */
+h1,h2,h3,h4,h5,h6 {
+    color: #444;
+    line-height: 1;
+}
+
+/* Header */
+#header {
+    background-color: #303030;
+    padding: 32px 32px 0 46px
+}
+
+/* Inhoud */
+.inhoud {
+    font-size 1.1em;
+    background-color: FBFBF8;
+}
