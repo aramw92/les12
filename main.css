@@ -1,22 +1,59 @@
-body {
-    background: #a9a9a9;
-    color: #444;
+header {
+    background-color: #2a751d;
+    width: 100%;
+    Height: 100px;
+}
+footer { 
+    background: #2a751d;
+    width: 100%;
+    height: 100px;
 }
 
-/* Koppen */
-h1,h2,h3,h4,h5,h6 {
-    color: #444;
-    line-height: 1;
+#cel1 {
+background-color: aqua;
 }
-
-/* Header */
-#header {
-    background-color: #303030;
-    padding: 32px 32px 0 46px
+#cel2{
+background-color: aquamarine;
 }
-
-/* Inhoud */
-.inhoud {
-    font-size 1.1em;
-    background-color: FBFBF8;
+#cel3 {
+background-color: rgb(242, 255, 0);
+}
+#cel4 {
+background-color: rgb(0, 255, 174);
+}
+#cel5 {
+background-color: bisque;
+}
+#cel6 {
+background-color: rgb(200, 200, 200);
+}
+#cel7 {
+background-color: blanchedalmond;
+}
+#cel8 {
+background-color: rgb(120, 120, 186);
+}
+#cel9 {
+background-color: blueviolet;
+}
+#cel10 {
+background-color: brown;
+}
+#cel11 {
+background-color: burlywood;
+}
+#cel12 {
+background-color: cadetblue;
+}
+#cel13 {
+background-color: chartreuse;
+}
+#cel14 {
+background-color: chocolate;
+}
+#cel15 {
+background-color: coral;
+}
+#cel16 {
+background-color: cornflowerblue;
 }
